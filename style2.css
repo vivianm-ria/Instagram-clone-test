@@ -1,0 +1,73 @@
+.8_2 { 
+	overflow:hidden;
+}
+.e8_2 { 
+	width:852.4891967773438px;
+	height:714px;
+	position:absolute;
+}
+.e2_12 { 
+	transform: rotate(1.1014298719932543deg);
+	width:840.4279174804688px;
+	height:635.5380249023438px;
+	position:absolute;
+	left:12.216562271118164px;
+	top:0px;
+	background-image:url(_imgs/background-instagram-resize.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_9 { 
+	width:256px;
+	height:461px;
+	position:absolute;
+	left:38.00000762939453px;
+	top:93px;
+	background-image:url(_imgs/cell-1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_14 { 
+	width:260px;
+	height:472px;
+	position:absolute;
+	left:580px;
+	top:90px;
+	background-image:url(_imgs/cell-2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_10 { 
+	width:262px;
+	height:473px;
+	position:absolute;
+	left:306px;
+	top:81px;
+	background-image:url(_imgs/cell-3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_58 { 
+	color:rgba(169.00000512599945, 169.00000512599945, 169.00000512599945, 1);
+	width:441px;
+	height:34px;
+	position:absolute;
+	left:200.00001525878906px;
+	top:668px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:Symbol(figma.mixed)px;
+	letter-spacing:0;
+}
+.e1_59 { 
+	color:rgba(169.00000512599945, 169.00000512599945, 169.00000512599945, 1);
+	width:265px;
+	height:29px;
+	position:absolute;
+	left:277px;
+	top:685px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}

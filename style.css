@@ -1,0 +1,100 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex-content {
+    display:flex;
+}
+
+
+/* Background images section */
+
+    .bg-imgs {
+        background-image: url(./_imgs/background-instagram-resize.png);
+        background-repeat: no-repeat;
+        background-size:95%;
+        background-position: center;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        width: 70vw; height: 100vh;
+    }
+    .cell-imgs {
+        margin-top:15vh;
+
+    }
+    .cell-imgs img {
+        margin:10px;
+        width:210px; height: auto;
+    }
+
+
+/* Login section */
+
+
+    .account-settings {
+        width: 24vw;
+        height: 90%;
+        margin-top: 5vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+    
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+    #sign-in {   
+        background-color: rgba(245, 245, 245, 1);
+        margin-top: 4px;
+        border: rgba(169, 169, 169, 1) solid 0.5px;
+        width: 24vw;
+        height: 300px;
+        display: flex;
+        justify-content: center;
+    }
+    .profile {
+        display: flex;
+        justify-content:center ;
+        width: 100%;
+    }
+    #profile {
+        margin: 5% 0px;
+        border:2px solid transparent;
+        border-radius: 50%;
+        width: 100px;
+    }
+    .botton-account {
+
+
+
+    }
+    
+    .user-options {
+        margin-top: 10px;
+        border: rgba(169, 169, 169, 1) solid 0.5px;
+        background-color: rgba(245, 245, 245, 1);
+        height: 20vh;
+
+    }
+    #link-font {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:rgba(44, 174, 248, 1)
+    }
+
+    .button-select {
+        border: 1px solid transparent;
+        background: rgba(44, 174, 248, 1);
+        border-radius: 4px;
+        box-sizing: border-box;
+        padding: 4px 4px;
+        color:white;
+        font-weight: 600;
+    }
+    .button-select button {
+        color: white;
+    }
